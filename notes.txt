@@ -1,4 +1,2 @@
-Rea Sammerah B. Piit
-f{username} - {age}
-f{username} - {age}
-f{username} - {age}
+I love Python Programming Language
+Practice makes Perfect!
