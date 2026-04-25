@@ -13,6 +13,7 @@ try:
         print("\nContent of file: ")
         print(content)
 
+
     # 3. Append new Data.
 
     new_note = input("Enter another note: ")
